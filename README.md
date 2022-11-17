@@ -19,15 +19,15 @@ I am a Junior Front-end developer <img src="https://media.giphy.com/media/WUlplc
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastan588&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   
 
 ### :fire: My Projects:
-### https://anastan588.github.io/rsschool-cv/
-### https://anastan588.github.io/travel/
-### https://anastan588.github.io/momentum/
-### https://anastan588.github.io/webdev/
-### https://anastan588.github.io/online-zoo/
-### https://anastan588.github.io/yalow/
-### https://anastan588.github.io/books-shop/
-### https://rolling-scopes-school.github.io/anastan588-JSFELT2022Q3/calculator/
-### https://anastan588.github.io/songbird/
+#### https://anastan588.github.io/rsschool-cv/
+#### https://anastan588.github.io/travel/
+#### https://anastan588.github.io/momentum/
+#### https://anastan588.github.io/webdev/
+#### https://anastan588.github.io/online-zoo/
+#### https://anastan588.github.io/yalow/
+#### https://anastan588.github.io/books-shop/
+#### https://rolling-scopes-school.github.io/anastan588-JSFELT2022Q3/calculator/
+#### https://anastan588.github.io/songbird/
 
 <!--
 **anastan588/anastan588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -15,7 +15,6 @@ I am a Junior Front-end developer <img src="https://media.giphy.com/media/WUlplc
 </div>
 
     
-Вот результат того, что у нас 
 
 <!--
 **anastan588/anastan588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

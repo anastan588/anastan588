@@ -4,7 +4,7 @@ I am a Junior Front-end developer <img src="https://media.giphy.com/media/WUlplc
 
 - :telescope: I’m working as an ecomist in the building industry .
 
-- :zap: In my free time, I leaning CSS, HTML, JavaScript.
+- :zap: In my free time I am learning CSS, HTML, JavaScript.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>

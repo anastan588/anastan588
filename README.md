@@ -15,7 +15,7 @@ I am a Junior Front-end developer <img src="https://media.giphy.com/media/WUlplc
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anastan588&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anastan588)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastan588&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)   
 
 <!--

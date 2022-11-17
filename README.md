@@ -16,7 +16,7 @@ I am a Junior Front-end developer <img src="https://media.giphy.com/media/WUlplc
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anastan588)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastan588&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastan588&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   
 
 <!--
 **anastan588/anastan588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

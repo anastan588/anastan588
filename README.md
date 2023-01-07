@@ -28,6 +28,8 @@ I am a Junior Front-end developer <img src="https://media.giphy.com/media/WUlplc
 #### https://anastan588.github.io/books-shop/
 #### https://rolling-scopes-school.github.io/anastan588-JSFELT2022Q3/calculator/
 #### https://anastan588.github.io/songbird/
+#### https://anastan588.github.io/plants/
+
 
 <!--
 **anastan588/anastan588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

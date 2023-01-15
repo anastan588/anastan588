@@ -30,7 +30,7 @@ I am a Junior Front-end developer <img src="https://media.giphy.com/media/WUlplc
 #### https://anastan588.github.io/calculator/
 #### https://anastan588.github.io/songbird/
 #### https://anastan588.github.io/plants/
-#### https://anastan588.github.io/cars-app/
+#### https://anastan588.github.io/cars/
 
 
 <!--

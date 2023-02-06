@@ -22,7 +22,6 @@ I am a Junior Front-end developer <img src="https://media.giphy.com/media/WUlplc
 
 ### :fire: My Projects:
 #### https://anastan588.github.io/CV/
-#### https://anastan588.github.io/CV-Js-From-Zero-to-Hero-2023/
 #### https://anastan588.github.io/rsschool-cv/
 #### https://anastan588.github.io/travel/
 #### https://anastan588.github.io/momentum/

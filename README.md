@@ -26,6 +26,7 @@ I am a Junior Front-end developer <img src="https://media.giphy.com/media/WUlplc
 #### https://anastan588.github.io/cssBayan/cssBayan/
 #### https://anastan588.github.io/plants/
 #### https://anastan588.github.io/momentum2/
+#### https://anastan588.github.io/shelter/pages/main/
 #### https://anastan588.github.io/webdev/
 #### https://anastan588.github.io/online-zoo/
 #### https://anastan588.github.io/yalow/
@@ -34,8 +35,6 @@ I am a Junior Front-end developer <img src="https://media.giphy.com/media/WUlplc
 #### https://anastan588.github.io/calculator/
 #### https://anastan588.github.io/songbird/
 #### https://anastan588.github.io/travel/
-
-
 <!--
 **anastan588/anastan588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

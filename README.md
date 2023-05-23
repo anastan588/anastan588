@@ -21,7 +21,8 @@ I am a Junior Front-end developer <img src="https://media.giphy.com/media/WUlplc
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastan588&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   
 
 ### :fire: My Projects:
-#### https://anastan588.github.io/CV/
+[CV](https://anastan588.github.io/CV/)
+
 #### https://anastan588.github.io/rsschool-cv/
 #### https://anastan588.github.io/cssBayan/cssBayan/
 #### https://anastan588.github.io/plants/

@@ -22,9 +22,12 @@ I am a Junior Front-end developer <img src="https://media.giphy.com/media/WUlplc
 
 ### :fire: My Projects:
 [CV](https://anastan588.github.io/CV/)
+
 [RS SCHOOL CV](https://anastan588.github.io/rsschool-cv/)
-#### https://anastan588.github.io/cssBayan/cssBayan/
-#### https://anastan588.github.io/plants/
+
+[CSS Bayan](https://anastan588.github.io/cssBayan/cssBayan/)
+
+[Plants landing page](https://anastan588.github.io/plants/)
 #### https://anastan588.github.io/momentum2/
 #### https://anastan588.github.io/shelter/shelter/pages/main/
 #### https://anastan588.github.io/virtual-keyboard/

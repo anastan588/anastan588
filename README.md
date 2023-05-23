@@ -28,10 +28,15 @@ I am a Junior Front-end developer <img src="https://media.giphy.com/media/WUlplc
 [CSS Bayan](https://anastan588.github.io/cssBayan/cssBayan/)
 
 [Plants landing page](https://anastan588.github.io/plants/)
-#### https://anastan588.github.io/momentum2/
-#### https://anastan588.github.io/shelter/shelter/pages/main/
-#### https://anastan588.github.io/virtual-keyboard/
-#### https://anastan588.github.io/webdev/
+
+[Monemtum](https://anastan588.github.io/momentum2/)
+
+[Shelter landing page](https://anastan588.github.io/shelter/shelter/pages/main/)
+
+[Virtual keyboard](https://anastan588.github.io/virtual-keyboard/)
+
+[Webdev landing page](https://anastan588.github.io/webdev/)
+
 #### https://anastan588.github.io/online-zoo/
 #### https://anastan588.github.io/yalow/
 #### https://anastan588.github.io/cars/

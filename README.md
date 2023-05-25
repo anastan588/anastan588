@@ -38,9 +38,13 @@ I am a Junior Front-end developer <img src="https://media.giphy.com/media/WUlplc
 [Webdev landing page](https://anastan588.github.io/webdev/)
 
 [Online zoo landing page](https://anastan588.github.io/online-zoo/)
+
 [Yalow landing page](https://anastan588.github.io/yalow/)
+
 [Cars landing page](https://anastan588.github.io/cars/)
+
 [Books shop](https://anastan588.github.io/books-shop/)
+
 #### https://anastan588.github.io/calculator/
 #### https://anastan588.github.io/songbird/
 #### https://anastan588.github.io/travel/

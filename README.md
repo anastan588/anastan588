@@ -29,7 +29,7 @@ I am a Junior Front-end developer <img src="https://media.giphy.com/media/WUlplc
 
 [Plants landing page](https://anastan588.github.io/plants/)
 
-[Monemtum](https://anastan588.github.io/momentum2/)
+[Momentum](https://anastan588.github.io/momentum2/)
 
 [Shelter landing page](https://anastan588.github.io/shelter/shelter/pages/main/)
 

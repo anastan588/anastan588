@@ -45,9 +45,12 @@ I am a Junior Front-end developer <img src="https://media.giphy.com/media/WUlplc
 
 [Books shop](https://anastan588.github.io/books-shop/)
 
-#### https://anastan588.github.io/calculator/
-#### https://anastan588.github.io/songbird/
-#### https://anastan588.github.io/travel/
+[Calculator](https://anastan588.github.io/calculator/)
+
+[SongBird](https://anastan588.github.io/songbird/)
+
+[Travel landing page](https://anastan588.github.io/travel/)
+
 <!--
 **anastan588/anastan588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

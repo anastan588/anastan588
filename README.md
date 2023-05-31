@@ -54,7 +54,6 @@ I am a Junior Front-end developer <img src="https://media.giphy.com/media/WUlplc
 
 [Travel landing page](https://anastan588.github.io/travel/)
 
-
 <!--
 **anastan588/anastan588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

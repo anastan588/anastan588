@@ -2,7 +2,7 @@
 ### :woman_technologist: About Me :
 I am a Junior Front-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
 
-- :telescope: I’m working as an ecomist in the building industry .
+- :telescope: I’m working as an economist in the building industry .
 
 - :zap: In my free time I am learning CSS, HTML, JavaScript.
 

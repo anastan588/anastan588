@@ -27,6 +27,8 @@ I am a Junior Front-end developer <img src="https://media.giphy.com/media/WUlplc
 
 [RS SCHOOL CV](https://anastan588.github.io/rsschool-cv/)
 
+[News Api](https://anastan588.github.io/newsApi/newsApi/)
+
 [CSS Bayan](https://anastan588.github.io/cssBayan/cssBayan/)
 
 [Minesweeper game](https://anastan588.github.io/minesweeper/)

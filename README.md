@@ -27,6 +27,8 @@ I am a Junior Front-end developer <img src="https://media.giphy.com/media/WUlplc
 
 [RS SCHOOL CV](https://anastan588.github.io/rsschool-cv/)
 
+[Animation presentation with reveal.js](https://anastan588.github.io/animation-presentation/presentation-reveal/)
+
 [CSS Selectors Game](https://anastan588.github.io/css-selectors/css-selectors)
 
 [News Api](https://anastan588.github.io/newsApi/newsApi/)

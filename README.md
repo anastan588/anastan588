@@ -31,6 +31,8 @@ I am a Junior Front-end developer <img src="https://media.giphy.com/media/WUlplc
 
 [News Api](https://anastan588.github.io/newsApi/newsApi/)
 
+[Async Race](https://anastan588.github.io/async-race/async-race)
+
 [CSS Bayan](https://anastan588.github.io/cssBayan/cssBayan/)
 
 [Minesweeper game](https://anastan588.github.io/minesweeper/)

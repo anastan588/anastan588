@@ -30,6 +30,7 @@ I am a Junior Front-end developer <img src="https://media.giphy.com/media/WUlplc
 |[CV](https://anastan588.github.io/CV/)|   [RS SCHOOL CV](https://anastan588.github.io/rsschool-cv/) |
 |                  :----:              |            :----:                                           |        
 | Curriculum Vitae (using HTML, CSS)   | Curriculum Vitae for Rolling Scopes School (using HTML, CSS)| 
+
 |[Coffee House landing page] https://anastan588.github.io/coffee-house/)|   [CSS Selectors Game](https://anastan588.github.io/css-selectors/css-selectors) |
 |                  :----:              |            :----:                                           |        
 | Landing page (using HTML, SCS, JavaScript)   |Game for CSS Selectors (using HTML, SCSS, Typescript, Webpack)|

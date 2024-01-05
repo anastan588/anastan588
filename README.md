@@ -28,9 +28,9 @@ I am a Junior Front-end developer <img src="https://media.giphy.com/media/WUlplc
 
 ### :fire: My Projects:
 
-|Project|Description|
+|Project|Description|Technologies|
 |:---:|:---:| 
-|**[CV](https://anastan588.github.io/CV/)**|Curriculum Vitae (using HTML, CSS)|  
+|**[CV](https://anastan588.github.io/CV/)**|Curriculum Vitae (using HTML, CSS)|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;|  
 |**[RS SCHOOL CV](https://anastan588.github.io/rsschool-cv/)**|Curriculum Vitae for Rolling Scopes School (using HTML, CSS)| 
 |**[Coffee House landing page](https://anastan588.github.io/coffee-house/)**|Landing page (using HTML, SCS, JavaScript)|
 |**[CSS Selectors Game](https://anastan588.github.io/css-selectors/css-selectors)**|Game for CSS Selectors (using HTML, SCSS, Typescript, Webpack)|

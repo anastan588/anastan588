@@ -27,13 +27,13 @@ I am a Junior Front-end developer <img src="https://media.giphy.com/media/WUlplc
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastan588&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   
 
 ### :fire: My Projects:
-|[CV](https://anastan588.github.io/CV/)|   [RS SCHOOL CV](https://anastan588.github.io/rsschool-cv/) |
-|                  :----:              |            :----:                                           |        
-| Curriculum Vitae (using HTML, CSS)   | Curriculum Vitae for Rolling Scopes School (using HTML, CSS)| 
+|Project|Description|
+|:---:| |:---:| 
+|**[CV](https://anastan588.github.io/CV/)**|Curriculum Vitae (using HTML, CSS)|  
+|**[RS SCHOOL CV](https://anastan588.github.io/rsschool-cv/)**|Curriculum Vitae for Rolling Scopes School (using HTML, CSS)| 
+|**[Coffee House landing page](https://anastan588.github.io/coffee-house/)**|Landing page (using HTML, SCS, JavaScript)|
+|**[CSS Selectors Game](https://anastan588.github.io/css-selectors/css-selectors)**|Game for CSS Selectors (using HTML, SCSS, Typescript, Webpack)|
 
-|[Coffee House landing page](https://anastan588.github.io/coffee-house/)|[CSS Selectors Game](https://anastan588.github.io/css-selectors/css-selectors)|
-|                  :----:              |            :----:                                           |        
-| Landing page (using HTML, SCS, JavaScript)|Game for CSS Selectors (using HTML, SCSS, Typescript, Webpack)|
 
 [Animation presentation with reveal.js](https://anastan588.github.io/animation-presentation/presentation-reveal/)
 

@@ -1,7 +1,7 @@
 ### Hello) 👋
 ### :woman_technologist: About Me :
 
-[![codewars](https://www.codewars.com/users/anastan588/badges/small)](https://www.codewars.com/users/anastan588)
+[![codewars](https://www.codewars.com/users/rsschool_4dbdae09fba21293/badges/small)](https://www.codewars.com/users/rsschool_4dbdae09fba21293)
 
 I am a Junior Front-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
 

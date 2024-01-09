@@ -25,7 +25,7 @@ I am a Junior Front-end developer <img src="https://media.giphy.com/media/WUlplc
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anastan588)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastan588&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?anastan588=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=anastan588)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### :fire: My Projects:

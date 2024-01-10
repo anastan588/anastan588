@@ -58,17 +58,6 @@ I am a Junior Front-end developer <img src="https://media.giphy.com/media/WUlplc
 |**[Keyboard](https://anastan588.github.io/virtual-keyboard/)**|Virtual keyboard|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;|
 |**[Momentum](https://anastan588.github.io/momentum2/)**|Planning application|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;| 
 
-
-
-
-[Webdev landing page](https://anastan588.github.io/webdev/)
-
-[Online zoo landing page](https://anastan588.github.io/online-zoo/)
-
-[Yalow landing page](https://anastan588.github.io/yalow/)
-
-[Cars landing page](https://anastan588.github.io/cars/)
-
 [Books shop](https://anastan588.github.io/books-shop/)
 
 [Calculator](https://anastan588.github.io/calculator/)

@@ -23,7 +23,7 @@ I am a Junior Front-end developer <img src="https://media.giphy.com/media/WUlplc
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" **alt="ESLint" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" **alt="NPM" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/BadgeText-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ReactiveX-Light.svg" title="Rxjs" alt="Rxjs" width="40" height="40"/>&nbsp;
 </div>
 
 ### :fire: My Stats :
@@ -38,8 +38,8 @@ I am a Junior Front-end developer <img src="https://media.giphy.com/media/WUlplc
 
 |Project build|Description|Technologies|Repository link|
 |:---:|:---:|:---:|:---:| 
-|**[Milestone](https://milestone-anastan588.netlify.app/)**|Conversation application|<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp; Angular Material; Rxjs; Ngrx| 
-|**[YouTube](https://angular-testing-anastan588.netlify.app/)**|YouTube Api application|<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp; Angular Material; Rxjs; Ngrx, Youtube Api|  
+|**[Milestone](https://milestone-anastan588.netlify.app/)**|Conversation application|<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp; Angular Material; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ReactiveX-Light.svg" title="Rxjs" alt="Rxjs" width="40" height="40"/>&nbsp;; Ngrx| 
+|**[YouTube](https://angular-testing-anastan588.netlify.app/)**|YouTube Api application|<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp; Angular Material; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ReactiveX-Light.svg" title="Rxjs" alt="Rxjs" width="40" height="40"/>&nbsp;; Ngrx, Youtube Api|  
 |**[CV](https://anastan588.github.io/CV/)**|Curriculum Vitae|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;|  
 |**[RS SCHOOL CV](https://anastan588.github.io/rsschool-cv/)**|Curriculum Vitae for Rolling Scopes School| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;|  
 |**[Coffee House](https://anastan588.github.io/coffee-house/)**|Landing page|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;|  

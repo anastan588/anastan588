@@ -31,6 +31,7 @@ I am a Junior Front-end developer <img src="https://media.giphy.com/media/WUlplc
 [![trophy](https://github-profile-trophy.vercel.app/?username=anastan588&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anastan588)](https://github.com/anuraghazra/github-readme-stats)
 
+![Snake animation](https://github.com/anastan588/anastan588/blob/output/github-contribution-grid-snake.svg)
 
 ### :fire: My Projects:
 

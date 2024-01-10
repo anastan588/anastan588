@@ -35,8 +35,8 @@ I am a Junior Front-end developer <img src="https://media.giphy.com/media/WUlplc
 
 ### :fire: My Projects:
 
-|Project|Description|Technologies|
-|:---:|:---:|:---:| 
+|Project build|Description|Technologies|Repository link|
+|:---:|:---:|:---:|:---:| 
 |**[CV](https://anastan588.github.io/CV/)**|Curriculum Vitae|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;|  
 |**[RS SCHOOL CV](https://anastan588.github.io/rsschool-cv/)**|Curriculum Vitae for Rolling Scopes School| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;|  
 |**[Coffee House](https://anastan588.github.io/coffee-house/)**|Landing page|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;|  

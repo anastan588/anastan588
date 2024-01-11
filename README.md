@@ -36,8 +36,7 @@ I am a Junior Front-end developer <img src="https://media.giphy.com/media/WUlplc
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=anastan588&theme=solarized-light&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=anastan588&theme=solarized-light&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=anastan588&theme=solarized-light)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastan588&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anastan588&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -1,10 +1,9 @@
-### Hello) 👋
 ### :woman_technologist: About Me :
 
 [![codewars](https://www.codewars.com/users/rsschool_4dbdae09fba21293/badges/small)](https://www.codewars.com/users/rsschool_4dbdae09fba21293)
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-“For me, becoming isn’t about arriving somewhere or achieving a certain aim. I see it instead as forward motion, a means of evolving, a way to reach continuously toward a better self. The journey doesn’t end.” — Michelle Obama
+### “For me, becoming isn’t about arriving somewhere or achieving a certain aim. I see it instead as forward motion, a means of evolving, a way to reach continuously toward a better self. The journey doesn’t end.” — Michelle Obama
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>

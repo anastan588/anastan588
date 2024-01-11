@@ -26,15 +26,6 @@ I am a Junior Front-end developer <img src="https://media.giphy.com/media/WUlplc
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ReactiveX-Light.svg" title="Rxjs" alt="Rxjs" width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: My Stats :
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anastan588&theme=solarized)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=anastan588&theme=solarized-light)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastan588&theme=solarized-light&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anastan588&theme=solarized)
-
-![Snake animation](https://github.com/anastan588/anastan588/blob/output/github-contribution-grid-snake.svg)
-
 ### :fire: My Projects:
 
 |Project build|Description|Technologies|Repository link|
@@ -63,6 +54,15 @@ I am a Junior Front-end developer <img src="https://media.giphy.com/media/WUlplc
 |**[Books](https://anastan588.github.io/books-shop/)**|Landing Page|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;|
 |**[Calculator](https://anastan588.github.io/calculator/)**|Calculator application|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;|
 |**[SongBird](https://anastan588.github.io/songbird/)**|Quiz game|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;| 
+
+### :fire: My Stats :
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anastan588&theme=solarized)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=anastan588&theme=solarized-light)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastan588&theme=solarized-light&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anastan588&theme=solarized)
+
+![Snake animation](https://github.com/anastan588/anastan588/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **anastan588/anastan588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

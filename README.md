@@ -27,6 +27,23 @@ I am a Junior Front-end developer <img src="https://media.giphy.com/media/WUlplc
 </div>
 
 ### :fire: My Stats :
+Карточка профиля: 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anastan588&theme=solarized)
+
+Статистика языков в коммитах:
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anastan588&theme=solarized)
+
+Статистика языков в репозиториях:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anastan588&theme=solarized)
+
+Статистика профиля:
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anastan588&theme=solarized)
+
+Данные по коммитам за сутки:
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anastan588&theme=solarized)
+
+
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anastan588)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastan588&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=anastan588&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)

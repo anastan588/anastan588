@@ -32,13 +32,6 @@ I am a Junior Front-end developer <img src="https://media.giphy.com/media/WUlplc
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastan588&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anastan588&theme=solarized)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anastan588&theme=solarized)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anastan588&theme=solarized)
-
-
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anastan588&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://github.com/anastan588/anastan588/blob/output/github-contribution-grid-snake.svg)
 

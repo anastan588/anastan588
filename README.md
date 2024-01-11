@@ -29,6 +29,7 @@ I am a Junior Front-end developer <img src="https://media.giphy.com/media/WUlplc
 ### :fire: My Stats :
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anastan588&theme=solarized)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=anastan588&theme=solarized-light)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastan588&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anastan588&theme=solarized)
 

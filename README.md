@@ -21,7 +21,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ReactiveX-Light.svg" title="Rxjs" alt="Rxjs" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/190887795-99cb0921-e57f-430b-a111-e165deedaa36.png" title="AntDesign" alt="AntDesign" width="40" height="40"/>&nbsp;
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ecd443af-ebba-4af8-a46e-1bf64d863b5b" title="Babel" alt="Babel" width="40" height="40"/>&nbsp;
-   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="34ced3cd-bdd4-4858-bfb2-0240c5ccfdae" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="34ced3cd-bdd4-4858-bfb2-0240c5ccfdae" data-share-badge-host="https://www.credly.com">
 </div>
 
 ### :fire: My Projects:

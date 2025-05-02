@@ -26,6 +26,7 @@ https://app.rs.school/cv/0efb6c4d-cfa7-4211-b8aa-1b850a62cd72
   <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg" title="Vite" **alt="Vite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg" title="Vitest" **alt="Vitest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwindcss" **alt="Tailwindcss" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" **alt="Redux" width="40" height="40"/>&nbsp;
 </div>
 
 ### :fire: My Projects:

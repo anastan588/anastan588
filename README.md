@@ -30,6 +30,7 @@ https://app.rs.school/cv/0efb6c4d-cfa7-4211-b8aa-1b850a62cd72
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" **alt="Redux" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/190887795-99cb0921-e57f-430b-a111-e165deedaa36.png" title="AntDesign" alt="AntDesign" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello" **alt="Trello" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" title="Netlify" **alt="Netlify" width="40" height="40"/>&nbsp;
 </div>
 
 ### :fire: My Projects:
